@@ -12,13 +12,15 @@ Installation
 To run the project locally, follow these steps:
 Clone the repository:
 
-`git clone https://github.com/svnji/HappyBirthDay.git
-`
+```bash
+pip install project-namegit clone https://github.com/svnji/HappyBirthDay.git
+```
 
 Navigate to the project directory:
 
-`cd HappyBirthDay
-`
+```bash
+pip install project-namecd HappyBirthDay
+```
 
 Open index.html in your web browser.
 
